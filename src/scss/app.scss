@@ -36,6 +36,9 @@ html {
       font-weight: bold;
     }
   }
-
+.hot .price::after {
+    content: "🔥";
+}
+}
 
 }
