@@ -9,6 +9,6 @@ const hotPrice = document.querySelectorAll('.price');
 const fireEmoji = document.createTextNode('🔥');
 
 // Append the fire emoji to the hot price element
-hotPrice.appendChild(fireEmoji);
+//hotPrice.appendChild(fireEmoji);
 
 });
