@@ -36,15 +36,9 @@ html {
       font-weight: bold;
     }
   }
-.price {
-    position: relative;
-}
-
-.price::after {
+.hot .price::after {
     content: "🔥";
-    position: absolute;
-    right: -5px;
-    top: 0;
+}
 }
 
 }
